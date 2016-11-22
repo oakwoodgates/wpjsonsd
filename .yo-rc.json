@@ -1,0 +1,18 @@
+{
+  "generator-plugin-wp": {
+    "name": "WPJSONSD",
+    "homepage": "http://wpguru4u.com",
+    "description": "A radical new plugin for WordPress!",
+    "version": "0.0.1",
+    "author": "WPGuru4u",
+    "authoremail": "wpguru4u@gmail.com",
+    "authorurl": "http://wpguru4u.com",
+    "license": "GPLv2",
+    "slug": "wpjsonsd",
+    "classname": "WPJSONSD",
+    "classprefix": "WPJSONSD_",
+    "prefix": "wpjsonsd",
+    "year": 2016,
+    "currentVersionWP": "4.6.1"
+  }
+}
